@@ -1,0 +1,16 @@
+site_name: kiriya.link
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - About: about.md
+  - Programs: programs.md
+  - Tools: tools.md
+  - Extensions: extensions.md
+  - Unsorted: unsorted.md
+  
+  
+theme:
+    name: terminal
+    palette: gruvbox_dark
+
+extra_css: [extra.css]
