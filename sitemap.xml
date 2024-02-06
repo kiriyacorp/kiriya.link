@@ -1,33 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
-         <lastmod>2024-01-05</lastmod>
+         <loc>http://www.kiriya.link/</loc>
+         <lastmod>2024-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/about/</loc>
-         <lastmod>2024-01-05</lastmod>
+         <loc>http://www.kiriya.link/anime/</loc>
+         <lastmod>2024-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/extensions/</loc>
-         <lastmod>2024-01-05</lastmod>
+         <loc>http://www.kiriya.link/extensions/</loc>
+         <lastmod>2024-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/programs/</loc>
-         <lastmod>2024-01-05</lastmod>
+         <loc>http://www.kiriya.link/keyboards/</loc>
+         <lastmod>2024-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/tools/</loc>
-         <lastmod>2024-01-05</lastmod>
+         <loc>http://www.kiriya.link/minecraft/</loc>
+         <lastmod>2024-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/unsorted/</loc>
-         <lastmod>2024-01-05</lastmod>
+         <loc>http://www.kiriya.link/programs/</loc>
+         <lastmod>2024-02-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.kiriya.link/solarized-dark/</loc>
+         <lastmod>2024-02-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.kiriya.link/tools/</loc>
+         <lastmod>2024-02-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.kiriya.link/torrents/</loc>
+         <lastmod>2024-02-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://www.kiriya.link/unsorted/</loc>
+         <lastmod>2024-02-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
