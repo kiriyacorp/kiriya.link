@@ -16,6 +16,7 @@
 * https://due.moe
 * https://github.com/zigamacele/ami anilist desktop client
 * https://hohmiyazawa.github.io/sanity/?social anilist desktop client
+* https://processhacker.sourceforge.io/
 
 
 # unsorted scan + tl sites

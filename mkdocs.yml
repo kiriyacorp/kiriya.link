@@ -1,16 +1,22 @@
 site_name: kiriya.link
-site_url: http://www.kiriya.link/
+site_url: http://www.kiriya.link/ 
 nav:
   - Home: index.md
-  - About: about.md
   - Programs: programs.md
   - Tools: tools.md
   - Extensions: extensions.md
   - Unsorted: unsorted.md
+  - Minecraft: minecraft.md
+  - Anime: anime.md
+  - Keyboards: keyboards.md
+  - Torrents: torrents.md
+  - Solarized Dark: solarized-dark.md
+ 
   
   
 theme:
     name: terminal
     palette: gruvbox_dark
-
+    features: 
+    
 extra_css: [extra.css]
